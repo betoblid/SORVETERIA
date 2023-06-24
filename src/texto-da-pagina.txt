@@ -1,0 +1,83 @@
+TÍTULO DA PÁGINA
+Gelateria
+
+links:
+HOME
+SABORES
+SOBRE
+
+------------------------- PÁGINA HOME ----------------------------
+Seção banner página Home:
+SORVETE ARTESANAL
+
+Seção nossos sabores página Home:
+Nossos produtos
+Novos e deliciosos!
+Sorvete bom é aquele feito com os melhores ingredientes! Aqui na gelateria todos os nossos produtos são naturais, à base de frutas e sem nenhum conservante! Também temos opções sem lactose e sem açúcar. Venha conhecer e perceber que tem como o sorvete ser delicioso e saudável ao mesmo tempo!
+
+Seção nossos eventos página Home:
+NOSSOS EVENTOS
+Delicias com sorvete!
+Mais do que uma sorveteria, uma extensão da sua casa! Estamos aqui prontinhos para te atender e oferecer os melhores eventos com os melhores sorvete da sua vida! Venha nos conhecer e passar um tempo aqui com a gente.
+
+Seção sobre nós página Home:
+SOBRE NÓS
+Alegria em cada casquinha!
+Venha tomar o melhor sorvete da região aqui com a gente! Nós estamos há anos no mercado produzindo o que tem de melhor para o 	nosso cliente e você não pode ficar fora dessa. Venha nos fazer uma visita e aproveite o melhor atendimento e o melhor sorvete da cidade.
+
+
+------------------------- PÁGINA SABORES ----------------------------
+Seção banner página Sabores:
+NOSSOS SABORES
+
+Seção sabores página Sabores:
+SABORES DE SORVETE
+
+Sorvete de Oreo
+Delicioso sorvete sabor Oreo. Uma explosão de sabor.
+
+Sorvete Pistache
+Cremoso sorvete sabor pistache com pedacinhos de semente.
+
+Sorvete Cookies & Avelã
+O nosso melhor sorvete. Você vai adorar o sabor.
+
+Sorvete de Kiwi
+Delicioso e refrescante sorvete sabor kiwi. Rico em vitamina C.
+
+Sorvete de Morango
+Sorvete de morango gourmet. Tradicional e saboroso.
+
+Sorvete de Limão Siciliano
+O incrivel sorvete gourmet de limão siciliano vai te encantar.
+
+
+------------------------- PÁGINA SOBRE ----------------------------
+Seção banner página Sobre:
+A GELATERIA
+
+Seção sobre nos página Sobre:
+Sobre Nós
+Nós simplesmente amamos sorvete!
+Somos uma empresa apaixonada pelo que faz. Colocamos amor em cada sorvete produzido. Fazemos o melhor sorvete para os nossos clientes e gostamos de receber elogios. Estamos operando desde 2009 com as melhores matérias-primas para a produção final do sorvete. Vendemos tanto para varejo como para atacado.
+Somos uma empresa apaixonada pelo que faz. Colocamos amor em cada sorvete produzido. Fazemos o melhor sorvete para os nossos clientes e gostamos de receber elogios. Estamos operando desde 2009 com as melhores matérias-primas para a produção final do sorvete. Vendemos tanto para varejo como para atacado.
+
+
+------------------------- RODAPE ----------------------------
+ENDEREÇO
+Av. Bernardino de Campos, 98
+São Paulo, SP 12345-678
+
+CONTATO
+info@meusite.com
+Tel: (11) 3456-7890
+
+HORÁRIOS
+ABERTO TODOS OS DIAS
+10:00 - 22:00
+
+Gelateria. Orgulhosamente desenvolvido por "nome do desenvolvedor"
+
+
+
+

@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+}
+.container-logo{
+    background-image: url("../componentes/assets/banner-home.png");
+    width: 100%;
+    height: 110vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(252, 255, 71);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 42px;
+}
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-thumb{
+    width: 10px;
+    background-color: yellow;
+}
+
+@media (max-width: 590px){
+    .container-logo{
+       
+        background-position: center;
+        width: 100%;
+    }
+    .container-logo h1 {
+        font-size: 30px;
+    }
+    .container-sabor img, .box-sabor {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    .box-sabor, .container-equipe img, .container-evento img{
+        width: 100%;  
+    }
+    .box-equipe h2, .box-evento h2, .box-sabor h2{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .box-equipe p, .box-evento p, .box-sabor p{
+        text-align: center;
+        width: 80%;
+        margin: 35px auto;
+    }
+    .box-evento h3, .box-sabor h3{
+        margin: 0 auto;
+        text-align: center;
+        width: 50%;
+    }
+    .box-equipe h3{
+        width: 40%;
+        margin: 0 auto;
+    }   
+}
+
+@media (min-width: 511px) and (max-width: 800px){
+   
+    .container-logo h1 {
+        font-size: 50px;
+    }
+    .container-logo{
+        height: 120vh;
+    }
+    .container-sabor img, .container-equipe .img, .container-evento img{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+   
+    .box-equipe h2, .box-evento h2, .box-sabor h2{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .box-equipe p, .box-evento p, .box-sabor p{
+        text-align: center;
+        width: 80%;
+        margin: 35px auto;
+    }
+    .box-evento h3, .box-sabor h3{
+        margin: 0 auto;
+        text-align: center;
+        width: 50%;
+    }
+    .box-equipe h3{
+        width: 40%;
+        margin: 0 auto;
+    }
+    
+}
+@media (min-width: 801px){
+    .container-sabor, .container-equipe{
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
+    .container-evento{
+        display: flex;
+        align-items: center;
+        
+    }
+    .container-logo{
+        height: 100vh;
+        
+    }
+    .container-logo h1 {
+        font-size: 70px;
+    }
+    .container-equipe img, .container-sabor img, .container-evento img, .img{
+        width: 50%;
+    }
+   
+    .container-evento{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .box-equipe h2, .box-sabor h2, .box-evento h2{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .box-equipe p, .box-sabor p, .box-evento p{
+        text-align: center;
+        width: 70%;
+        margin: 35px auto;
+    }
+    .box-sabor h3, .box-evento h3{
+        margin: 0 auto;
+        text-align: center;
+        width: 50%;
+    }
+    .box-equipe h3{
+        width: 40%;
+        margin: 0 auto;
+    }
+    .box-equipe{
+        width: 50%;
+    }
+    
+}

@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+}
+.container-topo2{
+    background-image: url("../componentes/assets/banner-sabores.jpg");
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.205);
+}
+.container-sabores-text h2{
+    text-align: center;
+    margin: 40px auto;
+}
+.container-sabores{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 60px auto;
+    width: 70%;
+    
+}
+.box-sabores img{
+    margin-top: 30px;
+    width: 50%;
+}
+.box-sabores{
+    width: 25%;
+    height: 50vh;
+    text-align: center;
+    margin: 6px 7px;
+    box-shadow: 0 0 9px 4px #d8d8ff;
+}
+.box-sabores-text h4{
+    font-size: 18px;
+    
+}
+.box-sabores p{
+    font-size: 16px;
+    width: 80%;
+    margin: 0 auto;
+}
+@media (max-width: 590px){
+    .container-sabores{
+        display: flex;
+        flex-flow: column wrap;
+        width: 100%;
+        
+    }
+    
+    .container-topo2{
+        font-size: 36px;
+        text-align: center;
+        background-position-x: 50%;
+        background-position: center;
+        width: 100vw;
+    }
+    .box-sabores{
+        width: 80%;
+        height: 75%;
+    }
+    .box-sabores p{
+        margin-bottom: 20px;
+    }
+}
+@media (min-width: 591px) and (max-width: 800px){
+    .container-sabores{
+        display: flex;
+        flex-flow: column wrap;
+        width: 100%;
+    }
+    .container-topo2{
+        text-align: center;
+        background-position: center;
+        width: 100%;
+    }
+    .box-sabores{
+        width: 80%;
+        height: 60%;
+        margin: 12px auto;
+    }
+    .box-sabores p{
+        margin-bottom: 20px;
+    }
+
+}
+@media (min-width: 1500px){
+    .box-sabores p{
+        font: 24px;
+        margin: 5px auto;
+    }
+    .box-sabores h4{
+        font-size: 20px;
+    }
+    .container-topo2{
+        font-size: 70px;
+    }
+}
